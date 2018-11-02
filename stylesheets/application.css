@@ -240,6 +240,7 @@ label[for="q"]{
 /*=========MAIN MENU=======*/
 #main-menu {
   margin-right:0;
+  position:static;
 }
 #main-menu li a.selected,
 #main-menu li a.selected:hover {
