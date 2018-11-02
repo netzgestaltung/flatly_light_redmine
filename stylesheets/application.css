@@ -134,8 +134,9 @@ label[for="q"]{
 }
 
 #header h1{
-  margin-left:0;
+  margin-left:-9px;
   margin-bottom:0;
+  padding-top:0;
   color: #4e515e;
   font-size:1.625em;
 }
