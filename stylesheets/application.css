@@ -129,6 +129,8 @@ label[for="q"]{
   min-height:1.625em;
   padding-left: 30px;
   padding-top: 55px;
+  margin-left:0;
+  margin-bottom:0;
   background-color: #fefefe;
   color: #fefefe;
 }
