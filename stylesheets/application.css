@@ -129,16 +129,15 @@ label[for="q"]{
   min-height:1.625em;
   padding-left: 30px;
   padding-top: 55px;
-  margin-left:0;
-  margin-bottom:0;
   background-color: #fefefe;
   color: #fefefe;
 }
 
 #header h1{
+  margin-left:0;
+  margin-bottom:0;
   color: #4e515e;
-  fon-size:1.625em;
-  margin-left: -40px;
+  font-size:1.625em;
 }
 #header h1 a{
   color: #4e515e;
