@@ -1,4 +1,5 @@
 # Flatly light redmine theme #
+**Reduced Header/Title space amount**
 Modern and readability theme for Redmine.
 
 ## Installation
