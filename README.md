@@ -3,7 +3,7 @@ Modern and readability theme for Redmine.
 
 ## Edits by Netzgestaltung
 I use this repository to edit flatly light to my personal needs. Screenshots may differ. If i got time and content i will update them.
-* Reduced Header/Title space amount
+* 2018-11-2: Reduced Header/Title space amount
 
 ## Installation
 
