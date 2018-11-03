@@ -1,5 +1,7 @@
 # Flatly light redmine theme #
-**Reduced Header/Title space amount**
+## Edits by Netzgestaltung
+I use this repository to edit flatly light to my personal needs. Screenshots may differ. If i got time and content i will update theme.
+* Reduced Header/Title space amount
 
 Modern and readability theme for Redmine.
 
